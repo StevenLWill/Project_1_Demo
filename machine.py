@@ -1,5 +1,5 @@
 import sklearn 
 
-model = logistic()
+model = RandomForestRegressor('this is the way!')
 
 model.fit(data)
