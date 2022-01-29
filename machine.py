@@ -1,5 +1,5 @@
 import sklearn 
 
-model = linear_model()
+model = logistic()
 
 model.fit(data)
